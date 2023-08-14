@@ -60,7 +60,7 @@
   --bs-warning-bg-subtle: #fff3cd;
   --bs-danger-bg-subtle: #f8d7da;
   --bs-light-bg-subtle: #fcfcfd;
-  --bs-dark-bg-subtle: #f0f0f0;
+  --bs-dark-bg-subtle: #0e1117;
   --bs-primary-border-subtle: #9ec5fe;
   --bs-secondary-border-subtle: #c4c8cb;
   --bs-success-border-subtle: #a3cfbb;
@@ -155,7 +155,7 @@
   --bs-warning-bg-subtle: #332701;
   --bs-danger-bg-subtle: #2c0b0e;
   --bs-light-bg-subtle: #343a40;
-  --bs-dark-bg-subtle: #1a1d20;
+  --bs-dark-bg-subtle: #0e1117;
   --bs-primary-border-subtle: #084298;
   --bs-secondary-border-subtle: #41464b;
   --bs-success-border-subtle: #0f5132;
@@ -191,11 +191,11 @@
 }
 
 body {
-  margin:  0;
-  margin-top:  2%;
-  margin-left: 15%;
-  margin-right: 15%;
-  zoom: 100%;
+  margin:  2;
+  margin-top:  10%;
+  margin-left: 10%;
+  margin-right: 10%;
+  zoom: 120%;
   font-family: var(--bs-body-font-family);
   font-size: var(--bs-body-font-size);
   font-weight: var(--bs-body-font-weight);
